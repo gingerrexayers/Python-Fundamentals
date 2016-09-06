@@ -1,0 +1,9 @@
+\w*v\w*
+\w*ss\w*
+\w*e\b
+\w*b.b\w*
+\w*b\w+b\w*
+\w*b\w*b\w*
+\w*a\w*e\w*i\w*o\w*u\w*
+\s[regular expression]*\s
+\w*(.)\1\w*
